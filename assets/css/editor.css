@@ -1,0 +1,17 @@
+.button {
+    background: #4c4c4c;
+    color: #fff !important;
+    height: 35px;
+    line-height: 35px;
+    padding: 0 45px;
+    font-size: 15px;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    display: inline-block;
+    border: none;
+    text-align: center;
+    font-weight: 700;
+}
+
+.button:hover {
+    background: #3c3c3c;
+}
