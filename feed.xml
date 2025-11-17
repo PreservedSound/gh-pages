@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Preserved Sound</title>
     <link href="https://preservedsound.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://preservedsound.github.io/gh-pages" />
@@ -16,10 +16,10 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/grace-beneath-the-pines.html"/>
         <id>https://preservedsound.github.io/gh-pages/grace-beneath-the-pines.html</id>
-            <category term="Old Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/60/8185274.jpg" medium="image" />
 
-        <updated>2020-09-21T00:09:03+01:00</updated>
-            <summary>
+        <updated>2020-09-19T18:11:58+01:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/60/8185274.jpg" alt="" />
                     Buy the limited edition CD Grace Beneath the Pines first met on a bizarre whale watching trip in the Arctic Circle north of Iceland. Now, living&hellip;
@@ -27,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/60/8185274.jpg" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/60/8185274.jpg" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://preservedsound.bandcamp.com/album/grace-beneath-the-pines" target="_blank" rel="noopener"><em>Buy the limited edition CD</em></a><br><br>Grace Beneath the Pines first met on a bizarre whale watching trip in the Arctic Circle north of Iceland. Now, living between Nuuk and Krakow, GBTP bring you their very own form of ambient intergalactic indie rock.<br><br>The debut eponymous album by Grace Beneath the Pines takes influences from the raw, methodical emotion of bands such as Codeine, The For Carnation and Slint, fused with the lyrical lightness of Low and Piano Magic. Written with three different formations using three different bass players, each adding their own personality, skill, love and passion to the writing process, <em>Grace Beneath the Pines</em> is a musical journey that takes the listener to different places (musically speaking) through an amalgamation of musical styles and rhythms.</p>
             ]]>
         </content>
@@ -39,10 +39,10 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/north-side-drive.html"/>
         <id>https://preservedsound.github.io/gh-pages/north-side-drive.html</id>
-            <category term="Old Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/59/3920292.jpg" medium="image" />
 
         <updated>2020-09-19T18:10:51+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/59/3920292.jpg" alt="" />
                     Buy the limited edition CD ​"On Snow//Sea//Sky, the artist returns to the early combination of piano, strings and occasional electronics with a trio of songs that sparkle like&hellip;
@@ -50,7 +50,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/59/3920292.jpg" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/59/3920292.jpg" class="type:primaryImage" alt="" /></p>
                 <p><em><a href="https://preservedsound.bandcamp.com/album/snow-sea-sky" target="_blank" rel="noopener">Buy the limited edition CD</a></em><br><br>​"On <em>Snow//Sea//Sky</em><em>, </em>the artist returns to the early combination of piano, strings and occasional electronics with a trio of songs that sparkle like their titles." – <em><a href="http://acloserlisten.com/2014/10/14/a-preserved-sound-trio/" target="_blank" rel="noopener">a closer listen</a><br><br>Snow // Sea // Sky</em> by North Side Drive, the moniker of artist Jonathan Pearson, continues the elements-based theme of his previous two EPs. Using piano and electronics, “Snow” is full of textures, clocking in at over ten minutes, and sets up the rest of the EP beautifully. A fast, staccato piano line slowly builds, with piano chords and electronics, falling into ambient noise; only for the piano line to re-emerge. “Sea” is a much more modern-classical melody, gentle, and leads the way to a more robust “Sky”. The album comes as a pressed CD, in a handmade, recycled card sleeve and insert, hand stamped and numbered on the back, and limited to 150 copies.</p>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="0">
 <tbody>
@@ -70,10 +70,10 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/lorenzo-masotto.html"/>
         <id>https://preservedsound.github.io/gh-pages/lorenzo-masotto.html</id>
-            <category term="Old Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/58/1469892307_1.png" medium="image" />
 
         <updated>2020-09-19T18:07:57+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/58/1469892307_1.png" alt="" />
                     Buy the limited edition CD of Rule and Case "… a diverse and delightful album" – a closer listen "Every note is crisp and resonant from start&hellip;
@@ -81,7 +81,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/58/1469892307_1.png" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/58/1469892307_1.png" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="500" src="https://www.youtube.com/embed/wfBGKrjiAVs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
 <p><strong><em><a href="https://preservedsound.bandcamp.com/album/rule-and-case">Buy the limited edition CD of Rule and Case</a></em></strong><br><br><span>"… a diverse and delightful album" – <em><a target="_blank" href="https://acloserlisten.com/2016/02/10/lorenzo-masotto-rule-and-case/" rel="noopener">a closer listen</a></em><br><br>"Every note is crisp and resonant from start to finish. Simply put, <em>Rule and Case</em> is a very enjoyable and vibrant album…" – <em><a target="_blank" href="https://stationarytravels.wordpress.com/2016/02/14/sound-impression-lorenzo-masotto-rule-and-case-preserved-sound/" rel="noopener">Stationary Travels</a></em><br><br>"Masotti would seem to be a natural as far as film soundtrack composing is concerned, and his ability at conveying mood is just as convincingly demonstrated" – <em><a target="_blank" href="http://www.textura.org/reviews/masotto_rulecase.htm" rel="noopener">textura</a></em><br><br>"Masotto has managed to capture a brilliant collision of styles and genres, setting in motion a brilliant and explorative new direction that grows more and more exciting with each new release" – <em><a href="http://www.anthemreview.net/post/138508850226/lorenzo-masotto-rule-and-case-every-piece-i" target="_blank" rel="noopener">Anthem Review</a></em></span><br><br>"… a brilliant post-classical gallery full of rich dynamics &amp; cinematic suggestions" – <em><a href="https://musicwontsaveyou.com/2016/02/15/lorenzo-masotto-rule-and-case/" target="_blank" rel="noopener">Music Won't Save You<br>​</a></em><br>Searching for equilibrium between classical harmony and the sound of modern music, <em>Rule and Case</em> is a sequence of chords and effects that arrives at the counterpoint between tonal precision and “atonal” freedom – between acoustic instruments and electronics, between the past and present. “Every piece I write comes from a particular moment of my life, an emotion, a meeting, a walk, a picture or a photo that I’ve seen,” says Lorenzo.<br><br>Lorenzo Masotto’s journey with music began at the age of nine when he started playing piano. Graduating from Conservatorio di Verona, he consequently started studying composition and jazz. Lorenzo also plays in a prog/post rock band called Le Maschere di Clara, directs a male voice choir, writes music for film and theatre, and teaches piano and composition. “I’ve never only thought about writing in just one music style,” he says, “I love all music, and everything I write increases my confidence and ability to write from a wider perspective.”<br> <br>Lorenzo Masotto is an Italian pianist and composer from Verona. <em>Rule and Case</em> is his first album on Preserved Sound.</p>
             ]]>
@@ -94,10 +94,10 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/3.html"/>
         <id>https://preservedsound.github.io/gh-pages/3.html</id>
-            <category term="Old Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/57/4970132_1.jpg" medium="image" />
 
         <updated>2020-09-19T18:05:13+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/57/4970132_1.jpg" alt="" />
                     This album is now sold out 3+ is the project of Masashi Shiraishi from Ishikari City, Japan. Masashi is influenced immensely by Yukio Nakagawa, and&hellip;
@@ -105,7 +105,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/57/4970132_1.jpg" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/57/4970132_1.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/116879265&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" data-mce-fragment="1"></iframe></div>
 <p><strong><em>This album is now sold out</em></strong><br><br>3+ is the project of Masashi Shiraishi from Ishikari City, Japan. Masashi is influenced immensely by Yukio Nakagawa, and deals with environmental sounds and ambient music with the essence of nature and beauty in order to create his own abstract language and sceneries. 3+'s music is not music, but the art of sound.</p>
 <table style="border-collapse: collapse; width: 100%; border-style: none;" border="0">
@@ -126,10 +126,10 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/unconditional-arms.html"/>
         <id>https://preservedsound.github.io/gh-pages/unconditional-arms.html</id>
-            <category term="Old Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/56/1469892529_1.png" medium="image" />
 
-        <updated>2020-09-19T18:00:03+01:00</updated>
-            <summary>
+        <updated>2020-09-19T17:59:03+01:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/56/1469892529_1.png" alt="" />
                     Buy the limited edition CDR Kinship was written by Jeff Wright (Unconditional Arms) for the birth of his son Owen, and can be compared to other&hellip;
@@ -137,7 +137,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/56/1469892529_1.png" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/56/1469892529_1.png" class="type:primaryImage" alt="" /></p>
                 <div class="paragraph"><em><a href="https://preservedsound.bandcamp.com/album/kinship" target="_blank" rel="noopener">Buy the limited edition CDR</a></em><br><br><em>Kinship</em> was written by Jeff Wright (Unconditional Arms) for the birth of his son Owen, and can be compared to other acts as Godspeed! You Black Emperor and The Appleseed Cast.<br><br>"New life is a beautiful thing, something that one is eager to share with the world … Love overflows on this release, especially in the dialogue of 'First Look', but it doesn’t overwhelm … 'The Family Tree' possesses a similar sense of ebullience. The peaceful finale, 'Rest', implies something that new parents don’t encounter often; but in this case, if Jeffrey can get it, his rest will have been well-deserved." – <em><a href="http://acloserlisten.com/2013/09/29/debuts-downloads-post-rock-plus/" target="_blank" rel="noopener">a closer listen</a></em></div>
 <div> </div>
 <div><div class="post__iframe"><iframe loading="lazy" width="100%" height="500" src="https://www.youtube.com/embed/lDa3kLSu0mA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div></div>
@@ -151,18 +151,18 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/thomas-mereur.html"/>
         <id>https://preservedsound.github.io/gh-pages/thomas-mereur.html</id>
-            <category term="Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/2/pp-thomas-islande.jpeg" medium="image" />
 
-        <updated>2020-09-18T16:20:07+01:00</updated>
-            <summary>
+        <updated>2020-09-18T16:20:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/2/pp-thomas-islande.jpeg" alt="" />
-                     Buy the limited edition CD of Dyrhólaey Combining the simplicity of Satie-esque piano and layered, Sigur Rós-style voices, Thomas Méreur’s debut album Dyrhólaey is about bringing his&hellip;
+                    Buy the limited edition CD of Dyrhólaey Combining the simplicity of Satie-esque piano and layered, Sigur Rós-style voices, Thomas Méreur’s debut album Dyrhólaey is about bringing his&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/2/pp-thomas-islande.jpeg" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/2/pp-thomas-islande.jpeg" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/513131757&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" data-mce-fragment="1"></iframe></div>
 <div style="font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;"> </div>
 <p><em><a href="https://preservedsound.bandcamp.com/album/dyrh-laey" target="_blank" rel="noopener">Buy the limited edition CD of Dyrhólaey</a></em></p>
@@ -191,18 +191,18 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/tess-said-so.html"/>
         <id>https://preservedsound.github.io/gh-pages/tess-said-so.html</id>
-            <category term="Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/4/3828684_1.jpg" medium="image" />
 
-        <updated>2020-09-18T16:19:35+01:00</updated>
-            <summary>
+        <updated>2020-09-18T16:19:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/4/3828684_1.jpg" alt="" />
-                     Buy the limited edition, pressed CD of Scramble + Fate Buy the limited edition, pressed CD of I Did That Tomorrow "Another bright and&hellip;
+                    Buy the limited edition, pressed CD of Scramble + Fate Buy the limited edition, pressed CD of I Did That Tomorrow "Another bright and colorful&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/4/3828684_1.jpg" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/4/3828684_1.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/267860862&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" data-mce-fragment="1"></iframe></div><a href="https://soundcloud.com/preservedsound" title="Preserved Sound" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener"></a><a href="https://soundcloud.com/preservedsound/be-tess-said-so" title="Be – Tess Said So" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener"></a></p>
 <p><em><a target="_blank" href="https://preservedsound.bandcamp.com/album/scramble-fate" rel="noopener">Buy the limited edition, pressed CD of Scramble + Fate</a></em><br><em><a target="_blank" href="https://preservedsound.bandcamp.com/album/i-did-that-tomorrow" rel="noopener">Buy the limited edition, pressed CD of I Did That Tomorrow</a></em></p>
 <p><span style="color: #515151;">"Another bright and colorful concoction, as cheerful as the cover art implies ... <em>Scramble + Fate</em> sounds more like the work of a small chamber ensemble.</span><span style="color: #515151;">"</span> – <em><a target="_blank" href="https://acloserlisten.com/2016/06/16/tess-said-so-scramble-fate/" rel="noopener">a closer listen</a></em></p>
@@ -231,18 +231,18 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/neal-heppleston.html"/>
         <id>https://preservedsound.github.io/gh-pages/neal-heppleston.html</id>
-            <category term="Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/10/recstu.jpg" medium="image" />
 
-        <updated>2020-09-18T16:19:04+01:00</updated>
-            <summary>
+        <updated>2020-09-18T16:18:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/10/recstu.jpg" alt="" />
-                    Folk Songs for Double Bass by Neal HepplestonBuy the limited edition CD of Folk Songs for Double Bass On his debut album Folk Songs for Double&hellip;
+                    Folk Songs for Double Bass by Neal Heppleston Buy the limited edition CD of Folk Songs for Double Bass On his debut album Folk Songs for&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/10/recstu.jpg" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/10/recstu.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=175013900/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless=""><a href="https://preservedsound.bandcamp.com/album/folk-songs-for-double-bass">Folk Songs for Double Bass by Neal Heppleston</a></iframe></div>
 <p><em><a href="https://preservedsound.bandcamp.com/album/folk-songs-for-double-bass" target="_blank" rel="noopener">Buy the limited edition CD of Folk Songs for Double Bass</a></em></p>
 <p>On his debut album <em>Folk Songs for Double Bass</em>, Neal Heppleston takes a selection of popular folk songs with strong lyrical content, stripping them back to the basic melody to create worlds in which the lyrics live through the instrumentation. With contributions from Jim Ghedi , Sharron Krauss and Nick Jonah Davis , <em>Folk Songs for Double Bass</em> transposes traditional folk melodies onto the double bass and created soundscapes around them, building different worlds for them to live in.</p>
@@ -266,10 +266,10 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/adrian-lane.html"/>
         <id>https://preservedsound.github.io/gh-pages/adrian-lane.html</id>
-            <category term="Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/11/1469892388.png" medium="image" />
 
-        <updated>2020-09-18T16:18:35+01:00</updated>
-            <summary>
+        <updated>2020-09-18T16:17:00+01:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/11/1469892388.png" alt="" />
                     Buy the limited edition CD of I Have Promises to Keep Buy the limited edition CD of Playing With Ghosts Buy the limited edition of&hellip;
@@ -277,7 +277,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/11/1469892388.png" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/11/1469892388.png" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/334165155&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" data-mce-fragment="1"></iframe></div>
 <p><a href="https://soundcloud.com/calicoade" title="Adrian Lane :" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener"></a><a href="https://soundcloud.com/calicoade/02-playing-with-ghosts" title="02- Playing With Ghosts" target="_blank" style="color: #cccccc; text-decoration: none;" rel="noopener"></a><a href="https://preservedsound.bandcamp.com/album/i-have-promises-to-keep" target="_blank" rel="noopener"><em>Buy the limited edition CD of I Have Promises to Keep</em></a></p>
 <p><em><a href="https://preservedsound.bandcamp.com/album/playing-with-ghosts" target="_blank" rel="noopener">Buy the limited edition CD of Playing With Ghosts</a></em></p>
@@ -317,10 +317,10 @@
         </author>
         <link href="https://preservedsound.github.io/gh-pages/cedric-d-lavoie.html"/>
         <id>https://preservedsound.github.io/gh-pages/cedric-d-lavoie.html</id>
-            <category term="Artists"/>
+        <media:content url="https://preservedsound.github.io/gh-pages/media/posts/28/cre-dit-julie-blanche.jpg" medium="image" />
 
-        <updated>2020-09-19T16:02:23+01:00</updated>
-            <summary>
+        <updated>2020-09-18T16:16:09+01:00</updated>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://preservedsound.github.io/gh-pages/media/posts/28/cre-dit-julie-blanche.jpg" alt="" />
                     Buy the limited edition CD of 88 Inspired by the hours spent on travelling on tour and all the isolated landscapes he encountered, Canadian composer&hellip;
@@ -328,7 +328,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://preservedsound.github.io/gh-pages/media/posts/28/cre-dit-julie-blanche.jpg" alt="" />
+                    <p><img src="https://preservedsound.github.io/gh-pages/media/posts/28/cre-dit-julie-blanche.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518485176&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" data-mce-fragment="1"></iframe></div>
 <p><em><a href="https://preservedsound.bandcamp.com/album/88" target="_blank" rel="noopener">Buy the limited edition CD of 88</a></em></p>
 <p>Inspired by the hours spent on travelling on tour and all the isolated landscapes he encountered, Canadian composer Cédric D. Lavoie’s <em><a href="https://preservedsound.bandcamp.com/album/88" target="_blank" rel="noopener">88</a></em> was composed on the piano with bowed and plucked upright basses, some discrete percussion and sound effects.</p>
